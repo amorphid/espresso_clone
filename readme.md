@@ -4,6 +4,9 @@
 
 --
 
+- `adb uninstall com.google.android.apps.common.testing.ui.testapp.test`
+- `adb uninstall com.google.android.apps.common.testing.ui.testapp`
+
 - `adb install -r ./testapp/build/apk/testapp-debug-unaligned.apk`
 - `adb install -r ./testapp/build/apk/testapp-test-unaligned.apk`
 - `adb shell am instrument -w com.google.android.apps.common.testing.ui.testapp.test/com.google.android.apps.common.testing.testrunner.GoogleInstrumentationTestRunner`

@@ -26,6 +26,12 @@ android {
         targetSdkVersion 18
         testInstrumentationRunner "com.google.android.apps.common.testing.testrunner.GoogleInstrumentationTestRunner"
     }
+
+    sourceSets {
+        instrumentTest {
+            java.srcDirs = ['src/instrumentTest/java']
+        }
+    }
 }
 
 dependencies {
