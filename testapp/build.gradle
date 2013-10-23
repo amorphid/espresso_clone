@@ -34,6 +34,5 @@ dependencies {
     // http://tools.android.com/tech-docs/new-build-system/user-guide#TOC-Testing
     // $ ./gradlew assembleTest
     // gradle assembleTest
-    instrumentTestCompile fileTree(dir: 'libs', include: '*.jar')
     instrumentTestCompile fileTree(dir: 'test_libs', include: '*.jar')
 }
