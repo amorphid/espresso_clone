@@ -1,0 +1,32 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:0.6.+'
+    }
+}
+apply plugin: 'android'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: '*.jar')
+}
+
+// http://tools.android.com/tech-docs/new-build-system/migrating-from-intellij-projects
+android {
+    compileSdkVersion 18
+    buildToolsVersion "18.1.1"
+
+    defaultConfig {
+        minSdkVersion 8
+        targetSdkVersion 18
+    }
+}
+
+dependencies {
+	compile 'com.android.support:appcompat-v7:+'
+}
