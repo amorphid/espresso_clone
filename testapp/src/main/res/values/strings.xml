@@ -68,4 +68,6 @@
         <item>Late</item>
     </string-array>
 
+    <string name="something">Hello World</string>
+    <string name="other_string">Goodbye!!</string>
 </resources>
