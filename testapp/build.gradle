@@ -24,9 +24,15 @@ android {
     defaultConfig {
         minSdkVersion 8
         targetSdkVersion 18
+        testInstrumentationRunner "com.google.android.apps.common.testing.testrunner.GoogleInstrumentationTestRunner"
     }
 }
 
 dependencies {
 	compile 'com.android.support:appcompat-v7:+'
+
+    // http://tools.android.com/tech-docs/new-build-system/user-guide#TOC-Testing
+    // $ ./gradlew assembleTest
+    // gradle assembleTest
+    instrumentTestCompile fileTree(dir: 'libs', include: '*.jar')
 }
