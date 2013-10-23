@@ -1,7 +1,6 @@
 #### Build & Run
 
-- `gradle clean ; gradle assembleDebug`
-- `gradle clean ; gradle assembleTest`
+- `gradle clean ; gradle assembleDebug ; gradle assembleTest`
 
 --
 

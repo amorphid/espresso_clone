@@ -35,4 +35,5 @@ dependencies {
     // $ ./gradlew assembleTest
     // gradle assembleTest
     instrumentTestCompile fileTree(dir: 'libs', include: '*.jar')
+    instrumentTestCompile fileTree(dir: 'test_libs', include: '*.jar')
 }
