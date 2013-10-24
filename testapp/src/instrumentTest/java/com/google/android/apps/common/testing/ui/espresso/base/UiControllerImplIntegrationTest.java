@@ -3,8 +3,8 @@ package com.google.android.apps.common.testing.ui.espresso.base;
 import com.google.android.apps.common.testing.ui.espresso.InjectEventSecurityException;
 import com.google.android.apps.common.testing.ui.espresso.UiController;
 import com.google.android.apps.common.testing.ui.espresso.util.HumanReadables;
-import com.google.android.apps.common.testing.ui.testapp.R;
-import com.google.android.apps.common.testing.ui.testapp.SendActivity;
+import com.google.android.apps.common.testing.ui.espresso.R;
+import com.google.android.apps.common.testing.ui.espresso.SendActivity;
 import com.google.common.base.Optional;
 
 import android.app.Activity;

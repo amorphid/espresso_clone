@@ -31,6 +31,8 @@ android {
         instrumentTest {
             java.srcDirs = ['src/instrumentTest/java']
         }
+
+        instrumentTest.setRoot('src/instrumentTest')
     }
 }
 

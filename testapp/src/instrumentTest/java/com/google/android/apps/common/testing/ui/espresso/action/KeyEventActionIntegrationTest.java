@@ -18,8 +18,8 @@ import static org.hamcrest.Matchers.instanceOf;
 
 import com.google.android.apps.common.testing.testrunner.annotations.SdkSuppress;
 import com.google.android.apps.common.testing.ui.espresso.PerformException;
-import com.google.android.apps.common.testing.ui.testapp.MainActivity;
-import com.google.android.apps.common.testing.ui.testapp.R;
+import com.google.android.apps.common.testing.ui.espresso.MainActivity;
+import com.google.android.apps.common.testing.ui.espresso.R;
 
 import android.content.Intent;
 import android.test.ActivityInstrumentationTestCase2;

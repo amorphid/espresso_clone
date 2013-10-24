@@ -12,8 +12,8 @@ import static com.google.android.apps.common.testing.ui.espresso.sample.LongList
 import static org.hamcrest.Matchers.is;
 import static org.hamcrest.Matchers.not;
 
-import com.google.android.apps.common.testing.ui.testapp.LongListActivity;
-import com.google.android.apps.common.testing.ui.testapp.R;
+import com.google.android.apps.common.testing.ui.espresso.LongListActivity;
+import com.google.android.apps.common.testing.ui.espresso.R;
 
 import android.test.ActivityInstrumentationTestCase2;
 import android.test.suitebuilder.annotation.LargeTest;

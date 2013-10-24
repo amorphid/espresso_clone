@@ -4,12 +4,12 @@
 
 - `adb install -r ./testapp/build/apk/testapp-debug-unaligned.apk`
 - `adb install -r ./testapp/build/apk/testapp-test-unaligned.apk`
-- `adb shell am instrument -w com.google.android.apps.common.testing.ui.testapp.test/com.google.android.apps.common.testing.testrunner.GoogleInstrumentationTestRunner`
+- `adb shell am instrument -w com.google.android.apps.common.testing.ui.espresso.test/com.google.android.apps.common.testing.testrunner.GoogleInstrumentationTestRunner`
 
 #### Notes
 
-- `adb uninstall com.google.android.apps.common.testing.ui.testapp.test`
-- `adb uninstall com.google.android.apps.common.testing.ui.testapp`
+- `adb uninstall com.google.android.apps.common.testing.ui.espresso.test`
+- `adb uninstall com.google.android.apps.common.testing.ui.espresso`
 
 --
 
@@ -18,15 +18,15 @@
 
 
 ```
-$ adb shell pm list instrumentation`
-instrumentation:com.google.android.apps.common.testing.ui.testapp.test/com.google.android.apps.common.testing.testrunner.GoogleInstrumentationTestRunner
- (target=com.google.android.apps.common.testing.ui.testapp)
+$ adb shell pm list instrumentation
+instrumentation:com.google.android.apps.common.testing.ui.espresso.test/com.google.android.apps.common.testing.testrunner.GoogleInstrumentationTestRunner
+ (target=com.google.android.apps.common.testing.ui.espresso)
 
 $ adb shell pm list packages -3 google
-package:com.google.android.apps.common.testing.ui.testapp.test
-package:com.google.android.apps.common.testing.ui.testapp
+package:com.google.android.apps.common.testing.ui.espresso.test
+package:com.google.android.apps.common.testing.ui.espresso
 
-$ adb shell am instrument -w com.google.android.apps.common.testing.ui.testapp.test/com.google.android.apps.common.testing.testrunner.GoogleInstrumentationTestRunner
+$ adb shell am instrument -w com.google.android.apps.common.testing.ui.espresso.test/com.google.android.apps.common.testing.testrunner.GoogleInstrumentationTestRunner
 ```
 
 ```

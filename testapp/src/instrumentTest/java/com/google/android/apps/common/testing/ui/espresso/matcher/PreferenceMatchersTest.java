@@ -12,7 +12,7 @@ import static com.google.android.apps.common.testing.ui.espresso.matcher.Prefere
 import static com.google.android.apps.common.testing.ui.espresso.matcher.PreferenceMatchers.isEnabled;
 import static org.hamcrest.Matchers.not;
 
-import com.google.android.apps.common.testing.ui.testapp.R;
+import com.google.android.apps.common.testing.ui.espresso.R;
 
 import android.test.InstrumentationTestCase;
 import android.preference.CheckBoxPreference;

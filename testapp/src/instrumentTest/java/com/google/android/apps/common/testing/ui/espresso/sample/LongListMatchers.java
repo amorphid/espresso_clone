@@ -9,7 +9,7 @@ import static org.hamcrest.Matchers.instanceOf;
 import static org.hamcrest.Matchers.is;
 
 import com.google.android.apps.common.testing.ui.espresso.matcher.BoundedMatcher;
-import com.google.android.apps.common.testing.ui.testapp.LongListActivity;
+import com.google.android.apps.common.testing.ui.espresso.LongListActivity;
 
 import org.hamcrest.Description;
 import org.hamcrest.Matcher;
@@ -18,7 +18,7 @@ import java.util.Map;
 
 /**
  * Static utility methods to create {@link Matcher} instances that can be applied to the data
- * objects created by {@link com.google.android.apps.common.testing.ui.testapp.LongListActivity}.
+ * objects created by {@link com.google.android.apps.common.testing.ui.espresso.LongListActivity}.
  * <p>
  * These matchers are used by the
  * {@link com.google.android.apps.common.testing.ui.espresso.Espresso#onData(Matcher)} API and are
