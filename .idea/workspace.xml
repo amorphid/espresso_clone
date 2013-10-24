@@ -2,42 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b78092c7-b60b-49d2-90df-decb343f6d89" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/testapp/src/main/java/com/google/android/apps/common/testing/ui/testapp/ActionBarTestActivity.java" afterPath="$PROJECT_DIR$/testapp/src/main/java/com/google/android/apps/common/testing/ui/espresso/ActionBarTestActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/testapp/src/main/java/com/google/android/apps/common/testing/ui/testapp/DelegatingEditText.java" afterPath="$PROJECT_DIR$/testapp/src/main/java/com/google/android/apps/common/testing/ui/espresso/DelegatingEditText.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/testapp/src/main/java/com/google/android/apps/common/testing/ui/testapp/DisplayActivity.java" afterPath="$PROJECT_DIR$/testapp/src/main/java/com/google/android/apps/common/testing/ui/espresso/DisplayActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/testapp/src/main/java/com/google/android/apps/common/testing/ui/testapp/FragmentStack.java" afterPath="$PROJECT_DIR$/testapp/src/main/java/com/google/android/apps/common/testing/ui/espresso/FragmentStack.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/testapp/src/main/java/com/google/android/apps/common/testing/ui/testapp/GestureActivity.java" afterPath="$PROJECT_DIR$/testapp/src/main/java/com/google/android/apps/common/testing/ui/espresso/GestureActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/testapp/src/main/java/com/google/android/apps/common/testing/ui/testapp/LongListActivity.java" afterPath="$PROJECT_DIR$/testapp/src/main/java/com/google/android/apps/common/testing/ui/espresso/LongListActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/testapp/src/main/java/com/google/android/apps/common/testing/ui/testapp/MainActivity.java" afterPath="$PROJECT_DIR$/testapp/src/main/java/com/google/android/apps/common/testing/ui/espresso/MainActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/testapp/src/main/java/com/google/android/apps/common/testing/ui/testapp/MenuActivity.java" afterPath="$PROJECT_DIR$/testapp/src/main/java/com/google/android/apps/common/testing/ui/espresso/MenuActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/testapp/src/main/java/com/google/android/apps/common/testing/ui/testapp/ScrollActivity.java" afterPath="$PROJECT_DIR$/testapp/src/main/java/com/google/android/apps/common/testing/ui/espresso/ScrollActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/testapp/src/main/java/com/google/android/apps/common/testing/ui/testapp/SendActivity.java" afterPath="$PROJECT_DIR$/testapp/src/main/java/com/google/android/apps/common/testing/ui/espresso/SendActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/testapp/src/main/java/com/google/android/apps/common/testing/ui/testapp/SimpleActivity.java" afterPath="$PROJECT_DIR$/testapp/src/main/java/com/google/android/apps/common/testing/ui/espresso/SimpleActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/testapp/src/main/java/com/google/android/apps/common/testing/ui/testapp/SyncActivity.java" afterPath="$PROJECT_DIR$/testapp/src/main/java/com/google/android/apps/common/testing/ui/espresso/SyncActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/sample/ActionBarTest.java" afterPath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/sample/ActionBarTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/action/AdapterDataIntegrationTest.java" afterPath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/action/AdapterDataIntegrationTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/sample/AdapterViewTest.java" afterPath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/sample/AdapterViewTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/sample/AdvancedSynchronizationTest.java" afterPath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/sample/AdvancedSynchronizationTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/AppNotIdleExceptionTest.java" afterPath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/AppNotIdleExceptionTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/sample/BasicTest.java" afterPath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/sample/BasicTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/action/ClearTextActionIntegrationTest.java" afterPath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/action/ClearTextActionIntegrationTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/sample/CustomFailureHandlerTest.java" afterPath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/sample/CustomFailureHandlerTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/base/DefaultFailureHandlerTest.java" afterPath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/base/DefaultFailureHandlerTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/action/EditorActionIntegrationTest.java" afterPath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/action/EditorActionIntegrationTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/EspressoTest.java" afterPath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/EspressoTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/action/EventActionIntegrationTest.java" afterPath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/action/EventActionIntegrationTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/base/EventInjectorTest.java" afterPath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/base/EventInjectorTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/base/IdlingResourceIntegrationTest.java" afterPath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/base/IdlingResourceIntegrationTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/action/KeyEventActionIntegrationTest.java" afterPath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/action/KeyEventActionIntegrationTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/sample/LongListMatchers.java" afterPath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/sample/LongListMatchers.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/sample/LongListMatchersTest.java" afterPath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/sample/LongListMatchersTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/sample/MenuTest.java" afterPath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/sample/MenuTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/action/ScrollToActionIntegrationTest.java" afterPath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/action/ScrollToActionIntegrationTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/sample/ScrollToTest.java" afterPath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/sample/ScrollToTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/action/TypeTextActionIntegrationTest.java" afterPath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/action/TypeTextActionIntegrationTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/base/UiControllerImplIntegrationTest.java" afterPath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/base/UiControllerImplIntegrationTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/action/WindowOrderingIntegrationTest.java" afterPath="$PROJECT_DIR$/testapp/src/instrumentTest/java/com/google/android/apps/common/testing/ui/espresso/action/WindowOrderingIntegrationTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testapp/build.gradle" afterPath="$PROJECT_DIR$/testapp/build.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testapp/testapp.iml" afterPath="$PROJECT_DIR$/testapp/testapp.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="testappProject.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -101,17 +68,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SendActivity.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="SendActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testapp/src/main/java/com/google/android/apps/common/testing/ui/espresso/SendActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="58" selection-start="8" selection-end="58" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2940">
+            <state line="22" column="31" selection-start="794" selection-end="794" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="2685">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1418#1912#0" expanded="true" />
-                <element signature="e#1905#1906#0" expanded="true" />
-                <element signature="e#2029#2683#0" expanded="true" />
                 <element signature="e#2319#2358#0" expanded="true" />
-                <element signature="e#2676#2677#0" expanded="true" />
                 <element signature="e#2763#2790#1" expanded="true" />
                 <element signature="e#3065#3092#1" expanded="true" />
                 <element signature="e#3422#3449#1" expanded="true" />
@@ -123,12 +86,17 @@
                 <element signature="e#5057#5084#1" expanded="true" />
                 <element signature="e#5150#5171#0" expanded="true" />
                 <element signature="e#5193#5216#0" expanded="true" />
-                <element signature="e#5252#5431#0" expanded="true" />
-                <element signature="e#5420#5421#0" expanded="true" />
-                <element signature="e#5743#5871#0" expanded="true" />
-                <element signature="e#5864#5865#0" expanded="true" />
                 <element signature="e#6320#6347#1" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testapp/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="9" selection-start="736" selection-end="736" vertical-scroll-proportion="0.7058824" vertical-offset="0" max-vertical-offset="735">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -495,7 +463,7 @@
         <entry key="$PROJECT_DIR$/../AppProject" value="1382459754000" />
         <entry key="$PROJECT_DIR$/../android-test-kit" value="1382624906000" />
         <entry key="$PROJECT_DIR$/../android-test-kit/espresso/libtests" value="1382366234000" />
-        <entry key="$PROJECT_DIR$" value="1382546138000" />
+        <entry key="$PROJECT_DIR$" value="1382626623000" />
       </map>
     </option>
   </component>
@@ -503,6 +471,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/testapp/src/main/java/com/google/android/apps/common/testing/ui/espresso/SendActivity.java" />
+        <option value="$PROJECT_DIR$/testapp/build.gradle" />
       </list>
     </option>
   </component>
@@ -538,6 +507,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -584,11 +555,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
+              <option name="myItemId" value="test_libs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -613,14 +580,6 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="values" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -637,81 +596,11 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testappProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testappProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="espresso" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testappProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testappProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="instrumentTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="espresso" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -752,6 +641,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -777,19 +679,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -884,33 +773,33 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="158" y="22" width="1400" height="790" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.38285714" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.38285714" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -925,23 +814,12 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/testapp/src/main/java/com/google/android/apps/common/testing/ui/espresso/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="0" selection-start="1903" selection-end="1903" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1260">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testapp/src/main/java/com/google/android/apps/common/testing/ui/espresso/SendActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="58" selection-start="8" selection-end="58" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2940">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1418#1912#0" expanded="true" />
-            <element signature="e#1905#1906#0" expanded="true" />
-            <element signature="e#2029#2683#0" expanded="true" />
             <element signature="e#2319#2358#0" expanded="true" />
-            <element signature="e#2676#2677#0" expanded="true" />
             <element signature="e#2763#2790#1" expanded="true" />
             <element signature="e#3065#3092#1" expanded="true" />
             <element signature="e#3422#3449#1" expanded="true" />
@@ -953,12 +831,44 @@
             <element signature="e#5057#5084#1" expanded="true" />
             <element signature="e#5150#5171#0" expanded="true" />
             <element signature="e#5193#5216#0" expanded="true" />
-            <element signature="e#5252#5431#0" expanded="true" />
-            <element signature="e#5420#5421#0" expanded="true" />
-            <element signature="e#5743#5871#0" expanded="true" />
-            <element signature="e#5864#5865#0" expanded="true" />
             <element signature="e#6320#6347#1" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testapp/src/main/java/com/google/android/apps/common/testing/ui/espresso/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="0" selection-start="1903" selection-end="1903" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1260">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testapp/src/main/java/com/google/android/apps/common/testing/ui/espresso/SendActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="31" selection-start="794" selection-end="794" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="2685">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2319#2358#0" expanded="true" />
+            <element signature="e#2763#2790#1" expanded="true" />
+            <element signature="e#3065#3092#1" expanded="true" />
+            <element signature="e#3422#3449#1" expanded="true" />
+            <element signature="e#3926#3953#1" expanded="true" />
+            <element signature="e#4314#4341#1" expanded="true" />
+            <element signature="e#4657#4684#1" expanded="true" />
+            <element signature="e#4791#4818#1" expanded="true" />
+            <element signature="e#4922#4949#1" expanded="true" />
+            <element signature="e#5057#5084#1" expanded="true" />
+            <element signature="e#5150#5171#0" expanded="true" />
+            <element signature="e#5193#5216#0" expanded="true" />
+            <element signature="e#6320#6347#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testapp/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="9" selection-start="736" selection-end="736" vertical-scroll-proportion="0.7058824" vertical-offset="0" max-vertical-offset="735">
+          <folding />
         </state>
       </provider>
     </entry>
