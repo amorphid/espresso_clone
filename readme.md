@@ -14,7 +14,7 @@
 --
 
 - `adb shell pm list instrumentation`
-- `adb shell pm list packages -3 google`
+- `adb shell pm list packages -3 espresso`
 
 
 ```
