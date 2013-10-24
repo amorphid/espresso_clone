@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.google.android.apps.common.testing.ui.testapp;
+package com.google.android.apps.common.testing.ui.espresso;
 
 import android.app.Activity;
 import android.app.Fragment;

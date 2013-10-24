@@ -4,8 +4,8 @@ import com.google.android.apps.common.testing.testrunner.ActivityLifecycleCallba
 import com.google.android.apps.common.testing.testrunner.ActivityLifecycleMonitorRegistry;
 import com.google.android.apps.common.testing.testrunner.Stage;
 import com.google.android.apps.common.testing.ui.espresso.InjectEventSecurityException;
-import com.google.android.apps.common.testing.ui.testapp.R;
-import com.google.android.apps.common.testing.ui.testapp.SendActivity;
+import com.google.android.apps.common.testing.ui.espresso.R;
+import com.google.android.apps.common.testing.ui.espresso.SendActivity;
 
 import android.app.Activity;
 import android.os.Build;

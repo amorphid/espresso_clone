@@ -1,4 +1,4 @@
-package com.google.android.apps.common.testing.ui.testapp;
+package com.google.android.apps.common.testing.ui.espresso;
 
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;

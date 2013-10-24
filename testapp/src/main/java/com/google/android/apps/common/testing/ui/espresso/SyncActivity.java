@@ -1,4 +1,4 @@
-package com.google.android.apps.common.testing.ui.testapp;
+package com.google.android.apps.common.testing.ui.espresso;
 
 import static com.google.common.base.Preconditions.checkNotNull;
 

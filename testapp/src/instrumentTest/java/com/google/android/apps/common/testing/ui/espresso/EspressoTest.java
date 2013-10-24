@@ -14,10 +14,6 @@ import static org.hamcrest.Matchers.hasValue;
 import static org.hamcrest.Matchers.instanceOf;
 
 import com.google.android.apps.common.testing.ui.espresso.action.ViewActions;
-import com.google.android.apps.common.testing.ui.testapp.ActionBarTestActivity;
-import com.google.android.apps.common.testing.ui.testapp.MainActivity;
-import com.google.android.apps.common.testing.ui.testapp.R;
-import com.google.android.apps.common.testing.ui.testapp.SendActivity;
 
 import android.content.Context;
 import android.test.ActivityInstrumentationTestCase2;

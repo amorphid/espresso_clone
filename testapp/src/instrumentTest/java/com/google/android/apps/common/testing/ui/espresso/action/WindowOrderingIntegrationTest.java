@@ -9,8 +9,8 @@ import static com.google.android.apps.common.testing.ui.espresso.matcher.ViewMat
 import static com.google.android.apps.common.testing.ui.espresso.matcher.ViewMatchers.withId;
 import static com.google.android.apps.common.testing.ui.espresso.matcher.ViewMatchers.withText;
 
-import com.google.android.apps.common.testing.ui.testapp.R;
-import com.google.android.apps.common.testing.ui.testapp.SendActivity;
+import com.google.android.apps.common.testing.ui.espresso.R;
+import com.google.android.apps.common.testing.ui.espresso.SendActivity;
 
 import android.os.Build;
 import android.test.ActivityInstrumentationTestCase2;
