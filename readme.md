@@ -1,5 +1,8 @@
-#### Build & Run
+#### Clone
+- `git clone https://github.com/bootstraponline/espresso_clone.git testappProject`
+- `cd testappProject`
 
+#### Build & Run
 - `gradle clean ; gradle assembleDebug ; gradle assembleTest`
 
 - `adb install -r ./testapp/build/apk/testapp-debug-unaligned.apk`
