@@ -4,6 +4,9 @@ import static com.google.android.apps.common.testing.ui.espresso.Espresso.onView
 import static com.google.android.apps.common.testing.ui.espresso.action.ViewActions.click;
 import static com.google.android.apps.common.testing.ui.espresso.matcher.ViewMatchers.withId;
 
+import com.google.android.apps.common.testing.ui.testapp.R;
+import com.google.android.apps.common.testing.ui.testapp.SyncActivity;
+
 import android.os.Handler;
 import android.os.Looper;
 import android.test.ActivityInstrumentationTestCase2;

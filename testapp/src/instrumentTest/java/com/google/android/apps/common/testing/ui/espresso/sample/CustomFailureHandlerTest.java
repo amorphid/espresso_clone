@@ -8,7 +8,7 @@ import static com.google.android.apps.common.testing.ui.espresso.matcher.ViewMat
 import com.google.android.apps.common.testing.ui.espresso.FailureHandler;
 import com.google.android.apps.common.testing.ui.espresso.NoMatchingViewException;
 import com.google.android.apps.common.testing.ui.espresso.base.DefaultFailureHandler;
-import com.google.android.apps.common.testing.ui.espresso.MainActivity;
+import com.google.android.apps.common.testing.ui.testapp.MainActivity;
 
 import android.content.Context;
 import android.test.ActivityInstrumentationTestCase2;

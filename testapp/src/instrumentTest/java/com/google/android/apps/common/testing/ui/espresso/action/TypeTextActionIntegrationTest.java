@@ -13,8 +13,8 @@ import static org.hamcrest.Matchers.allOf;
 import static org.hamcrest.Matchers.containsString;
 import static org.hamcrest.Matchers.is;
 
-import com.google.android.apps.common.testing.ui.espresso.R;
-import com.google.android.apps.common.testing.ui.espresso.SendActivity;
+import com.google.android.apps.common.testing.ui.testapp.R;
+import com.google.android.apps.common.testing.ui.testapp.SendActivity;
 
 import android.test.ActivityInstrumentationTestCase2;
 import android.test.suitebuilder.annotation.LargeTest;

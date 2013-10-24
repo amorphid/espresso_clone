@@ -9,9 +9,9 @@ import static com.google.android.apps.common.testing.ui.espresso.matcher.ViewMat
 import static com.google.common.base.Preconditions.checkNotNull;
 
 import com.google.android.apps.common.testing.ui.espresso.contrib.CountingIdlingResource;
-import com.google.android.apps.common.testing.ui.espresso.R;
-import com.google.android.apps.common.testing.ui.espresso.SyncActivity;
-import com.google.android.apps.common.testing.ui.espresso.SyncActivity.HelloWorldServer;
+import com.google.android.apps.common.testing.ui.testapp.R;
+import com.google.android.apps.common.testing.ui.testapp.SyncActivity;
+import com.google.android.apps.common.testing.ui.testapp.SyncActivity.HelloWorldServer;
 
 import android.test.ActivityInstrumentationTestCase2;
 import android.test.suitebuilder.annotation.LargeTest;

@@ -24,7 +24,7 @@ import static com.google.android.apps.common.testing.ui.espresso.matcher.ViewMat
 import static org.hamcrest.Matchers.is;
 
 import com.google.android.apps.common.testing.ui.espresso.matcher.ViewMatchers.Visibility;
-import com.google.android.apps.common.testing.ui.espresso.R;
+import com.google.android.apps.common.testing.ui.espresso.tests.R;
 
 import android.test.InstrumentationTestCase;
 import android.view.View;

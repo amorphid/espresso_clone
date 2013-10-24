@@ -7,7 +7,7 @@ import static org.hamcrest.Matchers.anyOf;
 import static org.hamcrest.Matchers.endsWith;
 import static org.hamcrest.Matchers.equalTo;
 
-import com.google.android.apps.common.testing.ui.espresso.LongListActivity;
+import com.google.android.apps.common.testing.ui.testapp.LongListActivity;
 
 import android.content.Intent;
 import android.test.ActivityUnitTestCase;

@@ -8,8 +8,8 @@ import static com.google.android.apps.common.testing.ui.espresso.matcher.ViewMat
 import static com.google.android.apps.common.testing.ui.espresso.matcher.ViewMatchers.withText;
 import static org.hamcrest.Matchers.is;
 
-import com.google.android.apps.common.testing.ui.espresso.R;
-import com.google.android.apps.common.testing.ui.espresso.SendActivity;
+import com.google.android.apps.common.testing.ui.testapp.R;
+import com.google.android.apps.common.testing.ui.testapp.SendActivity;
 
 import android.app.Activity;
 import android.test.ActivityInstrumentationTestCase2;

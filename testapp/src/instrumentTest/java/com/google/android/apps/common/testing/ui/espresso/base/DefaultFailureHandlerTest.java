@@ -10,7 +10,7 @@ import static org.hamcrest.Matchers.not;
 import com.google.android.apps.common.testing.ui.espresso.AmbiguousViewMatcherException;
 import com.google.android.apps.common.testing.ui.espresso.NoMatchingViewException;
 import com.google.android.apps.common.testing.ui.espresso.ViewAssertion;
-import com.google.android.apps.common.testing.ui.espresso.MainActivity;
+import com.google.android.apps.common.testing.ui.testapp.MainActivity;
 import com.google.common.base.Optional;
 
 import android.test.ActivityInstrumentationTestCase2;

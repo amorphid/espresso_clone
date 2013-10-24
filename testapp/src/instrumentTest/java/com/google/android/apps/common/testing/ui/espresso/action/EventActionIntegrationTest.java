@@ -16,8 +16,8 @@ import com.google.android.apps.common.testing.testrunner.annotations.SdkSuppress
 import com.google.android.apps.common.testing.ui.espresso.UiController;
 import com.google.android.apps.common.testing.ui.espresso.ViewAction;
 import com.google.android.apps.common.testing.ui.espresso.matcher.ViewMatchers;
-import com.google.android.apps.common.testing.ui.espresso.GestureActivity;
-import com.google.android.apps.common.testing.ui.espresso.R;
+import com.google.android.apps.common.testing.ui.testapp.GestureActivity;
+import com.google.android.apps.common.testing.ui.testapp.R;
 
 import android.test.ActivityInstrumentationTestCase2;
 import android.test.suitebuilder.annotation.LargeTest;

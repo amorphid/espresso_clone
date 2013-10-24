@@ -11,7 +11,7 @@ import static org.hamcrest.Matchers.equalToIgnoringCase;
 import static org.hamcrest.Matchers.is;
 
 import com.google.android.apps.common.testing.ui.espresso.IdlingResource;
-import com.google.android.apps.common.testing.ui.espresso.SendActivity;
+import com.google.android.apps.common.testing.ui.testapp.SendActivity;
 
 import android.test.ActivityInstrumentationTestCase2;
 import android.test.suitebuilder.annotation.LargeTest;
