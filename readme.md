@@ -1,3 +1,7 @@
+Edit: I recommend using [Espresso 2.0](https://plus.google.com/+AndroidDevelopers/posts/jHXFkebKjEb) This fork was only for testing and isn't supported in any way.
+
+--
+
 #### Clone
 - `git clone https://github.com/bootstraponline/espresso_clone.git testappProject`
 - `cd testappProject`
